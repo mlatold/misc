@@ -1,0 +1,5 @@
+#!/bin/bash
+cd goboard
+grunt &
+go run ~/daemon.go -directory=./ -command=../execgb
+

@@ -1,0 +1,9 @@
+put
+each
+name
+in
+this
+file
+on
+seperate
+lines
